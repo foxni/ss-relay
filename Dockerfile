@@ -1,5 +1,5 @@
 FROM haproxy:1.5
-MAINTAINER XGFan
+MAINTAINER foxni
 
 EXPOSE 9991
 
